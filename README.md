@@ -1,5 +1,6 @@
 # mexc-webkripto
 
 
-&copy; Gökmen Nişancı / Web Developer. <br><br>
+&copy; Gökmen Nişancı / Web Kripto. <br><br>
+
 
